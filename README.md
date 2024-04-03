@@ -1,6 +1,6 @@
 ### Olá a todos. Me chamo Lucas Ferreira.
 
-- 🌱 Atualmente estou estudando Python 
+- 🌱 Atualmente estou me aprimorando na Linguagem Python para Análise de Dados e Ciência de Dados 
 
 ##
 
